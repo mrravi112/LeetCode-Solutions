@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0169-majority-element](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [3623-count-number-of-trapezoids-i](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3623-count-number-of-trapezoids-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [3623-count-number-of-trapezoids-i](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3623-count-number-of-trapezoids-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [3623-count-number-of-trapezoids-i](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3623-count-number-of-trapezoids-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,4 +86,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3623-count-number-of-trapezoids-i](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3623-count-number-of-trapezoids-i/) | Medium |
 <!---LeetCode Topics End-->
