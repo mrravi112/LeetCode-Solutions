@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [3623-count-number-of-trapezoids-i](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3623-count-number-of-trapezoids-i/) | Medium |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
