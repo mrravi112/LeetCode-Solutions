@@ -124,4 +124,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 <!---LeetCode Topics End-->
