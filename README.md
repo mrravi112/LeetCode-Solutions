@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0389-find-the-difference](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [3623-count-number-of-trapezoids-i](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3623-count-number-of-trapezoids-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0058-length-of-last-word](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0389-find-the-difference](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [3174-clear-digits](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3174-clear-digits/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0389-find-the-difference](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,4 +142,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0389-find-the-difference](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 <!---LeetCode Topics End-->
