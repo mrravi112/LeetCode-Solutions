@@ -1,15 +1,15 @@
 class Solution {
     public int sumOfUnique(int[] nums) {
-        Arrays.sort(nums);
-        int s = 0;
-
-        for (int i = 0; i < nums.length; i++) {
-            if ((i == 0 || nums[i] != nums[i - 1]) &&
-                (i == nums.length - 1 || nums[i] != nums[i + 1])) {
-                s = s + nums[i];
+        int freq[] = new int[101];
+        for(int num:nums){
+            freq[num]++;
+        }
+        int sum=0;
+        for(int i=1; i<=100; i++){
+            if(freq[i] ==1){
+                sum+=i;
             }
         }
-
-        return s;
+        return sum;
     }
 }
