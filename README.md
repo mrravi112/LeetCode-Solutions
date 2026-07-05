@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1184-distance-between-bus-stops](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1184-distance-between-bus-stops/) | Easy |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [3623-count-number-of-trapezoids-i](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3623-count-number-of-trapezoids-i/) | Medium |
 ## Hash Table
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [3623-count-number-of-trapezoids-i](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3623-count-number-of-trapezoids-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -207,4 +209,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 <!---LeetCode Topics End-->
