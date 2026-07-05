@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1184-distance-between-bus-stops](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1184-distance-between-bus-stops/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [3623-count-number-of-trapezoids-i](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3623-count-number-of-trapezoids-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [3623-count-number-of-trapezoids-i](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3623-count-number-of-trapezoids-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
