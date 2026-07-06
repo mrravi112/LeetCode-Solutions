@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0171-excel-sheet-column-number](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0204-count-primes](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [3623-count-number-of-trapezoids-i](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3623-count-number-of-trapezoids-i/) | Medium |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [3174-clear-digits](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3174-clear-digits/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -221,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
+| [0258-add-digits](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
