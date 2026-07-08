@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0179-largest-number](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
 | [0344-reverse-string](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Greedy
