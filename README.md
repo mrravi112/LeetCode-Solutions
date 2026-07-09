@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0203-remove-linked-list-elements](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Greedy
@@ -189,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [3174-clear-digits](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3174-clear-digits/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
