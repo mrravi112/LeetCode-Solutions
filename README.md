@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0434-number-of-segments-in-a-string](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [3174-clear-digits](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3174-clear-digits/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
