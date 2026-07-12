@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0434-number-of-segments-in-a-string](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0514-freedom-trail](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0514-freedom-trail/) | Hard |
 | [0541-reverse-string-ii](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0541-reverse-string-ii/) | Easy |
+| [0709-to-lower-case](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0709-to-lower-case/) | Easy |
 | [3174-clear-digits](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3174-clear-digits/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
