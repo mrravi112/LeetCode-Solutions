@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0292-nim-game](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0292-nim-game/) | Easy |
 | [0367-valid-perfect-square](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0441-arranging-coins/) | Easy |
+| [0507-perfect-number](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0507-perfect-number/) | Easy |
 | [0593-valid-square](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0593-valid-square/) | Medium |
 | [1025-divisor-game](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1025-divisor-game/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
