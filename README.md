@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0502-ipo](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0502-ipo/) | Hard |
+| [0540-single-element-in-a-sorted-array](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0546-remove-boxes](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0546-remove-boxes/) | Hard |
 | [0912-sort-an-array](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0441-arranging-coins/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
