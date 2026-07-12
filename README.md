@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0514-freedom-trail](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0514-freedom-trail/) | Hard |
+| [0541-reverse-string-ii](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [3174-clear-digits](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3174-clear-digits/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0541-reverse-string-ii](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
