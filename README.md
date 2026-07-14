@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0292-nim-game/) | Easy |
 | [0367-valid-perfect-square](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
+| [0400-nth-digit](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0400-nth-digit/) | Medium |
 | [0441-arranging-coins](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0507-perfect-number](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
+| [0400-nth-digit](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0400-nth-digit/) | Medium |
 | [0441-arranging-coins](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
