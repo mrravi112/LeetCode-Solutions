@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0372-super-pow](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0372-super-pow/) | Medium |
+| [0390-elimination-game](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0390-elimination-game/) | Medium |
 | [0400-nth-digit](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0400-nth-digit/) | Medium |
 | [0441-arranging-coins](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0507-perfect-number](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0507-perfect-number/) | Easy |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0390-elimination-game](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0390-elimination-game/) | Medium |
 | [0509-fibonacci-number](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
