@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0292-nim-game](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0292-nim-game/) | Easy |
 | [0367-valid-perfect-square](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0372-super-pow](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0372-super-pow/) | Medium |
 | [0400-nth-digit](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0400-nth-digit/) | Medium |
 | [0441-arranging-coins](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0507-perfect-number](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0507-perfect-number/) | Easy |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0169-majority-element](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0372-super-pow](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0372-super-pow/) | Medium |
 | [0912-sort-an-array](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
