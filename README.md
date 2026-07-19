@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0709-to-lower-case](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0709-to-lower-case/) | Easy |
 | [0796-rotate-string](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [3174-clear-digits](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3174-clear-digits/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
 | [0502-ipo](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0502-ipo/) | Hard |
 | [0605-can-place-flowers](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [3174-clear-digits](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3174-clear-digits/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -394,4 +397,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 <!---LeetCode Topics End-->
