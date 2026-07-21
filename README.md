@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1071-greatest-common-divisor-of-strings](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [3174-clear-digits](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3174-clear-digits/) | Easy |
+| [3499-maximize-active-section-with-trade-i](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -342,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0204-count-primes](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0869-reordered-power-of-2](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0869-reordered-power-of-2/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
