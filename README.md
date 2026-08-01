@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0486-predict-the-winner](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0502-ipo](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0502-ipo/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0546-remove-boxes](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0546-remove-boxes/) | Hard |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0390-elimination-game](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0390-elimination-game/) | Medium |
 | [0400-nth-digit](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0400-nth-digit/) | Medium |
 | [0441-arranging-coins](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0441-arranging-coins/) | Easy |
+| [0486-predict-the-winner](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0507-perfect-number](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0593-valid-square](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0593-valid-square/) | Medium |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0390-elimination-game](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0390-elimination-game/) | Medium |
+| [0486-predict-the-winner](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -328,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0097-interleaving-string](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0486-predict-the-winner](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0514-freedom-trail](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0514-freedom-trail/) | Hard |
 | [0546-remove-boxes](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0546-remove-boxes/) | Hard |
@@ -408,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0292-nim-game/) | Easy |
+| [0486-predict-the-winner](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [1025-divisor-game](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1025-divisor-game/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
