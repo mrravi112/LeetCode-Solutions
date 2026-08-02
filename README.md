@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0877-stone-game](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1184-distance-between-bus-stops](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1184-distance-between-bus-stops/) | Easy |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0593-valid-square](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0593-valid-square/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0869-reordered-power-of-2](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0869-reordered-power-of-2/) | Medium |
+| [0877-stone-game](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1025-divisor-game/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -335,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0514-freedom-trail](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0514-freedom-trail/) | Hard |
 | [0546-remove-boxes](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0546-remove-boxes/) | Hard |
+| [0877-stone-game](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1025-divisor-game/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -413,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0292-nim-game](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0292-nim-game/) | Easy |
 | [0486-predict-the-winner](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1025-divisor-game/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
