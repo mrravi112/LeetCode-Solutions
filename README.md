@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1260-shift-2d-grid](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1406-stone-game-iii](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1025-divisor-game](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1025-divisor-game/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1406-stone-game-iii](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -339,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0546-remove-boxes](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0546-remove-boxes/) | Hard |
 | [0877-stone-game](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1025-divisor-game/) | Easy |
+| [1406-stone-game-iii](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -418,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1025-divisor-game/) | Easy |
+| [1406-stone-game-iii](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
