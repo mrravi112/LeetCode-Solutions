@@ -261,11 +261,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0514-freedom-trail](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0514-freedom-trail/) | Hard |
+| [3310-remove-methods-from-project](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0514-freedom-trail](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0514-freedom-trail/) | Hard |
+| [3310-remove-methods-from-project](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -471,4 +473,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3310-remove-methods-from-project](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 <!---LeetCode Topics End-->
