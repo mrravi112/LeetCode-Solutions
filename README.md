@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1672-richest-customer-wealth](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/mrravi112/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mrravi112/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mrravi112/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mrravi112/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1510-stone-game-iv](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/mrravi112/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0502-ipo](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0502-ipo/) | Hard |
 | [0605-can-place-flowers](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [2029-stone-game-ix](https://github.com/mrravi112/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -324,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0869-reordered-power-of-2](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0869-reordered-power-of-2/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [2029-stone-game-ix](https://github.com/mrravi112/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -454,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/mrravi112/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -499,12 +504,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/mrravi112/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/mrravi112/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -517,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/mrravi112/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Sprague–Grundy Theorem
 | Problem Name | Difficulty |
 | ------- | ------- |
