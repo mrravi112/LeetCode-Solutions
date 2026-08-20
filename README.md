@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mrravi112/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mrravi112/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mrravi112/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -357,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0258-add-digits](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [1260-shift-2d-grid](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3174-clear-digits](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3174-clear-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Matrix
