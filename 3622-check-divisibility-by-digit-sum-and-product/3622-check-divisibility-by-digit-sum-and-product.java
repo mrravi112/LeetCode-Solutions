@@ -4,7 +4,7 @@ class Solution {
         int x=1;
         int c=0;
         // boolean q=true;
-        while(z>0){
+        while(z!=0){
             int m=z%10;
             c=c+m;
             x=x*m;
