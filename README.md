@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0835-image-overlap](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -407,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0835-image-overlap](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [1260-shift-2d-grid](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
