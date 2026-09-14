@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0593-valid-square](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0593-valid-square/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0836-rectangle-overlap](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0869-reordered-power-of-2](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0869-reordered-power-of-2/) | Medium |
 | [0877-stone-game](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/mrravi112/LeetCode-Solutions/tree/main/1025-divisor-game/) | Easy |
@@ -390,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0223-rectangle-area](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0223-rectangle-area/) | Medium |
 | [0593-valid-square](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0593-valid-square/) | Medium |
+| [0836-rectangle-overlap](https://github.com/mrravi112/LeetCode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [3623-count-number-of-trapezoids-i](https://github.com/mrravi112/LeetCode-Solutions/tree/main/3623-count-number-of-trapezoids-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
